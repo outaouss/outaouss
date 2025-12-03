@@ -1,6 +1,4 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/outaouss" alt="outaouss's 42 stats" /></a>
-[![aitaouss's 42 stats](https://badge.mediaplus.ma/greenbinary/aitaouss)](https://github.com/oakoudad/badge42)
-
 <!-- Welcome Message -->
 <h2>Hello Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
