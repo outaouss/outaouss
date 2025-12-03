@@ -37,7 +37,7 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
 
 <p align="left">
   <!-- Design Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg)" alt="photoshop" width="40" height="40"/>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 
