@@ -47,4 +47,4 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif" width="60">  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif" width="60">  <b> Aka SPL1NT4 Based of SPLINTER On The Ninja Turtels<b>
