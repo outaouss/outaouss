@@ -30,6 +30,7 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
 
 - 🎨 Graphic Designer (Photoshop, Illustrator, In-Design . . .) .
 - 💾 Databases: MariaDB, Mysql .
+- Low Level : C Language & Memory Manipulation .
 
 
 <!-- Tools & Tech -->
@@ -40,6 +41,7 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40"/>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/>
 
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
