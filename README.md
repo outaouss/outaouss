@@ -26,7 +26,7 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
 </p>
 
 <!-- Personal Stuffs -->
-<h3>🧠 Already Worked With :</h3>
+<h3>💾 What I Work/Learn :</h3>
 
 - 🎨 Graphic Designer (Photoshop, Illustrator, In-Design . . .) .
 - 💾 Databases: MariaDB, Mysql .
