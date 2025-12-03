@@ -17,15 +17,8 @@ Complementing my technical pursuits, I am also a professional <b>graphic designe
 My goal is to merge my developing skills in clean, efficient C code with my established proficiency in visual communication, <b>graphic design<b>, and <b>video production<b> <b>(Adobe Premiere Pro)<b>, enabling me to contribute to projects that require both technical precision and aesthetic excellence. I am committed to continuous learning and applying my diverse skillset to solve complex problems.
 </p>
 
-<!-- Personal Stuffs -->
-<h3>🧠 Currently Exploring:</h3>
-
-- 🎨 Graphic Designer (Photoshop, Illustrator, In-Design . . .) .
-- 💾 Databases: MariaDB, Mysql .
-- 🌐 Beginner Frontend Dev: HTML, CSS .
-
 <!-- Contact -->
-<h3>📫 Connect with me:</h3>
+<h3> 🚀 Reach Me Out :</h3>
 
 <p align="left">
   <a href="https://twitter.com/taoussi86509" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" height="30" width="30"/></a>
@@ -33,6 +26,13 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
   <a href="https://web.facebook.com/profile.php?id=100004677287730" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" height="30" width="30"/></a>
   <a href="https://www.instagram.com/spl1_nt4/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" height="30" width="30"/></a>
 </p>
+
+<!-- Personal Stuffs -->
+<h3>🧠 Already Worked With :</h3>
+
+- 🎨 Graphic Designer (Photoshop, Illustrator, In-Design . . .) .
+- 💾 Databases: MariaDB, Mysql .
+
 
 <!-- Tools & Tech -->
 <h3>🛠️ Tools & Technologies I Work With:</h3>
@@ -49,4 +49,4 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
 
 ---
 
-<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif)" width="60">  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif" width="60">  
