@@ -42,6 +42,7 @@ My goal is to merge my developing skills in clean, efficient C code with my esta
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="adobe premier pro" width="40" height="40"/>
 
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
