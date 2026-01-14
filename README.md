@@ -12,7 +12,7 @@ I am <b>Oussama Taoussi<b>, a highly motivated beginner in C programming within 
 
 Complementing my technical pursuits, I am also a professional <b>graphic designer<b> and <b>video editor<b>. I leverage my expertise in the Adobe Creative Suite—including <b>Photoshop, Illustrator, and InDesign<b>—to create visually compelling content and interfaces.
 
-My goal is to merge my developing skills in clean, efficient C code with my established proficiency in visual communication, <b>graphic design<b>, and <b>video production<b> <b>(Adobe Premiere Pro)<b>, enabling me to contribute to projects that require both technical precision and aesthetic excellence. I am committed to continuous learning and applying my diverse skillset to solve complex problems.
+My goal is to merge my developing skills in clean, efficient C code with my established proficiency in visual communication, <b>graphic design<b>, and <b>video production<b> <b>(Adobe Premiere Pro)<b>, enabling me to contribute to projects that require both technical precision and aesthetic excellence. I am commited to continuous learning and applying my diverse skillset to solve complex problems.
 </p>
 
 <!-- Contact -->
