@@ -3,7 +3,6 @@
 <h2>Hello Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <!-- About Me -->
-<img src="[https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149](https://www.behance.net/gallery/161921919/Portrait-animated-gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)" alt="Codding" width="40" height="40"/>
 </p>
 👨‍💻 <b>Oussama Taoussi</b>: Python Engineer & C Developer | Machine Learning Learner | Discord Bot Developer
 
