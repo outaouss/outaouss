@@ -56,6 +56,10 @@ I am constantly learning, improving my technical skills, and combining <b>softwa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 
+  <!-- 42 Network -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
+
 ---
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif" width="60">  <b> Aka SPL1NT4 Based of SPLINTER On The Ninja Turtels<b>
