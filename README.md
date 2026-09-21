@@ -2,10 +2,6 @@
 <!-- Welcome Message -->
 <h2>Hello Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3>Happy To Have You ! ! !</h3>
-
-<!-- About Me -->
-
 <!-- About Me -->
 
 </p>
