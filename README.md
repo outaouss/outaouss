@@ -6,13 +6,18 @@
 
 <!-- About Me -->
 
+<!-- About Me -->
+
 </p>
-👨‍💻 <b>Oussama Taoussi<b>: Aspiring <b>C<b> Developer & Visual Professional
-I am <b>Oussama Taoussi<b>, a highly motivated beginner in C programming within the rigorous <b>42 Network<b> (1337) curriculum, focused on building a solid foundation in low-level systems and robust software architecture.
+👨‍💻 <b>Oussama Taoussi</b>: Python Engineer & C Developer | Machine Learning Learner | Discord Bot Developer
 
-Complementing my technical pursuits, I am also a professional <b>graphic designer<b> and <b>video editor<b>. I leverage my expertise in the Adobe Creative Suite—including <b>Photoshop, Illustrator, and InDesign<b>—to create visually compelling content and interfaces.
+I am a <b>Python Engineer</b> focused on developing reliable and efficient software, while continuously expanding my knowledge in <b>Machine Learning</b> through the <b>42 Network (1337)</b>. I also work with <b>C</b>, developing my skills in low-level programming, memory management, and system-oriented development.
 
-My goal is to merge my developing skills in clean, efficient C code with my established proficiency in visual communication, <b>graphic design<b>, and <b>video production<b> <b>(Adobe Premiere Pro)<b>, enabling me to contribute to projects that require both technical precision and aesthetic excellence. I am commited to continuous learning and applying my diverse skillset to solve complex problems.
+Beyond software development, I am a <b>professional Discord Bot Developer</b>, creating and managing custom bots and automation systems designed for online communities and servers.
+
+Alongside my technical work, I am also a <b>professional Graphic Designer and Video Editor</b>. I use tools from the <b>Adobe Creative Suite</b> — including <b>Photoshop, Illustrator, InDesign, and Premiere Pro</b> — to create visual content, branding, and engaging video productions.
+
+I am constantly learning, improving my technical skills, and combining <b>software development, automation, machine learning, graphic design, and video production</b> to build creative and practical solutions.
 </p>
 
 <!-- Contact -->
