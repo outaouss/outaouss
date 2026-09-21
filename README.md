@@ -33,10 +33,13 @@ I am constantly learning, improving my technical skills, and combining <b>softwa
 <!-- Personal Stuffs -->
 <h3>💾 What I Work/Learn :</h3>
 
-- 🎨 Graphic Designer (Photoshop, Illustrator, In-Design . . .) .
-- 💾 Databases: MariaDB, Mysql .
-- Low Level : C Language & Memory Manipulation .
-
+- 🐍 Python Engineering & Software Development.
+- 🤖 AI & Machine Learning.
+- 💻 C Programming, Low-Level Systems & Memory Management.
+- 🤖 Discord Bot Development & Community Automation.
+- 💾 Database Management: MariaDB & MySQL.
+- 🎨 Graphic Design & Visual Communication: Photoshop, Illustrator, InDesign.
+- 🎬 Video Editing & Production: Adobe Premiere Pro.
 
 <!-- Tools & Tech -->
 <h3>🛠️ Tools & Technologies I Work With:</h3>
