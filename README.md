@@ -1,7 +1,7 @@
 [![outaouss's 42 stats](https://badge.mediaplus.ma/greenbinary/outaouss)](https://github.com/oakoudad/badge42)
 <!-- Welcome Message -->
 <h2>Hello Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">
+<img src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149" width="200px">
 <!-- About Me -->
 </p>
 👨‍💻 <b>Oussama Taoussi</b>: Python Engineer & C Developer | Machine Learning Learner | Discord Bot Developer
