@@ -3,7 +3,7 @@
 <h2>Hello Hello !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <!-- About Me -->
 </p>
-👨‍💻 <b>Oussama Taoussi</b>: ython Engineer & C Developer | Machine Learning Learner | Discord Bot Developer
+👨‍💻 <b>Oussama Taoussi</b>: Python Engineer & C Developer | Machine Learning Learner | Discord Bot Developer
 
 I am a <b>Python Engineer</b> focused on developing reliable and efficient software, while continuously expanding my knowledge in <b>Machine Learning</b> through the <b>42 Network (1337)</b>. I also work with <b>C</b>, developing my skills in low-level programming, memory management, and system-oriented development.
 
