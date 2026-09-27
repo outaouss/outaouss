@@ -11,7 +11,7 @@ Beyond software development, I am a <b>professional Discord Bot Developer</b>, c
 
 Alongside my technical work, I am also a <b>professional Graphic Designer and Video Editor</b>. I use tools from the <b>Adobe Creative Suite</b> — including <b>Photoshop, Illustrator, InDesign, and Premiere Pro</b> — to create visual content, branding, and engaging video productions.
 
-I am cnstantly learning, improving my technical skills, and combining <b>software development, automation, machine learning, graphic design, and video production</b> to build creative and practical solutions.
+I am constantly learning, improving my technical skills, and combining <b>software development, automation, machine learning, graphic design, and video production</b> to build creative and practical solutions.
 </p>
 
 <!-- Contact -->
