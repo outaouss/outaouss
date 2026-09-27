@@ -27,7 +27,7 @@ I am constantly learning, improving my technical skills, and combining <b>softwa
 <!-- Personal Stuffs -->
 <h3>💾 What I Work/Learn :</h3>
 
-- 🐍 Python Engineering & Software Development
+- 🐍 Python Engineering & Software Development.
 - 🤖 AI & Machine Learning.
 - 💻 C Programming, Low-Level Systems & Memory Management.
 - 🤖 Discord Bot Development & Community Automation.
