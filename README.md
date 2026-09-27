@@ -33,7 +33,7 @@ I am constantly learning, improving my technical skills, and combining <b>softwa
 - 🤖 Discord Bot Development & Community Automation.
 - 💾 Database Management: MariaDB & MySQL.
 - 🎨 Graphic Design & Visual Communication: Photoshop, Illustrator, InDesign.
-- 🎬 Video Editing & Production: Adobe Premiere Pro
+- 🎬 Video Editing & Production: Adobe Premiere Pro.
 
 <!-- Tools & Tech -->
 <h3>🛠️ Tools & Technologies I Work With:</h3>
