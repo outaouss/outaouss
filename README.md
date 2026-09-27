@@ -54,6 +54,6 @@ I am constantly learning, improving my technical skills, and combining <b>softwa
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="python" width="40" height="40"/>
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917" alt="c" width="40" height="40"/>
 
---
+---
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamljc3F2ZHF0dXdlb2F0N3Q5MHltYWowMnh1bnR2NzdkNzI3bnZqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXQMYkVu0e2SA57jui/giphy.gif" width="60">  <b> Aka SPL1NT4 Based of SPLINTER On The Ninja Turtels<b>
